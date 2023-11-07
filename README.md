@@ -1,0 +1,2 @@
+# AutoGPT-Chad11.6.20XX
+#1.0 README 11.6.20XX
